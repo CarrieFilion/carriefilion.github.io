@@ -6,6 +6,10 @@
 ## Research
 Publication list on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
 
+### Galactic Archaeology with the Subaru Prime Focus Spectrograph (PFS)
+The Prime Focus Spectrograph is a 3-armed (blue, red, near infrared), massively multiplexed fiber-fed (~2,400 fibers) spectrograph that will be mounted at the prime focus of the Subaru telescope in Hawaii. As part of an ambitious, multi-year survey, PFS will observe a large number of faint stars in the Milky Way, M31, and in nearby dwarf galaxies. Johns Hopkins is a member of the Collaboration that is planning this survey, and I have been fortunate enough to contribute to these planning efforts during my graduate studies. I have been actively involved in multiple aspects of the preparation work for the survey, and my efforts have recently been focused on the exciting science that will be done in the outer disk of the Milky Way.
+
+
 ### The low-mass stellar initial mass function in ultra-faint dwarf galaxies
 The stellar initial mass function (IMF) describes the distribution of stellar masses formed in any given star formation event. The IMF is a crucial ingredient in modeling how stellar populations and galaxies evolve, and underpins the interpretation of observations across a wide range of topics and scales, from the internal evolution of star clusters to cosmic reionization. Thanks to the long main sequence lifetimes of low-mass stars, most of the low-mass stars born in an ancient stellar population are still alive today. With sufficiently deep observations, we can observe these low-mass stars in nearby galaxies and use these observations to constrain their IMF(s). I am using ultra-deep Hubble Space Telescope imaging to constrain the low-mass IMF of nearby ultra-faint dwarf galaxies 
 
