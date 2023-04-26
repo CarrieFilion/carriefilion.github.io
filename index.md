@@ -1,7 +1,7 @@
 ### Ph.D. Candidate in Physics and Astronomy at the Johns Hopkins University in Baltimore, MD
 ### Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow
 
-#### I am persuing my Ph.D. at the Johns Hopkins University, where I am advised by Professor Rosemary F.G. Wyse. My research interests include the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and dynamics in barred galaxies. In my work I use observations of resolved stellar populations of the Milky Way and nearby dwarf galaxies, as well as dynamical N-body simulations.
+#### I am a Ph.D. candidate at the Johns Hopkins University, where I am advised by Professor Rosemary F.G. Wyse. I am interested in galaxy formation and evolution. I use both large dynamical simulations and observations of stars in the Milky Way and its nearest neighbors to try to better understand the processes that shaped these galaxies into what we see today. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and dynamics in barred galaxies. 
 
 ### ** this website is a work in progress! The section below is incomplete. Please pardon any typos et cetara **
 ## Research
