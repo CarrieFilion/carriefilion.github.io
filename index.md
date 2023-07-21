@@ -1,6 +1,20 @@
 # Research Interests
-### I am interested in a variety of topics within the broader field of galaxy formation and evolution. I am particularly interested in Local Group archaeology (i.e. using observations of galaxies within the Local Group to learn about their formation and evolution) and galactic dynamics. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and the dynamics of stars in barred galaxies. 
+I am interested in a variety of topics within the broader field of galaxy formation and evolution. I am particularly interested in Local Group archaeology (i.e. using observations of galaxies within the Local Group to learn about their formation and evolution) and galactic dynamics. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and the dynamics of stars in barred galaxies. 
 
-### ** this website is a work in progress! The section below is incomplete. Please pardon any typos et cetara **
-## Research
-Publication list on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
+## Publication List 
+on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
+
+* ### First Author
+   * “The Non-Axisymmetric Influence: Radius and Angle-Dependent Trends in a Barred Galaxy”, Filion, C., McClure, R.L., Weinberg, M., D’Onghia, E., Daniel, K.J., 2023, [MNRAS, 524, 276](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..276F/abstract)
+   * “Faint Stars in a Faint Galaxy. II. the Low-Mass Stellar Initial Mass Function of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Platais, I., Wyse, R.F.G, Kozhurina-Platais, V., 2022, [ApJ, 939, 38](https://ui.adsabs.harvard.edu/abs/2022ApJ...939...38F/abstract)
+   * “The Far-away Blues: Exploring the Furthest Extents of the Boötes I Ultra-faint Dwarf Galaxy”, Filion, C., Wyse, R.F.G, 2021, [ApJ, 923, 218](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..218F/abstract)
+   * “Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, [ApJ, 901, 82](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...82F/abstract)
+* ### Nth Author
+  * “Revealing Mass Distributions of Dwarf Spheroidal Galaxies in the 
+Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, Accepted for publication in the [Proceedings of the IAUS 379](https://ui.adsabs.harvard.edu/abs/2023arXiv230511309H/abstract)
+
+
+
+
+
+“Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, ApJ, 901, 82
