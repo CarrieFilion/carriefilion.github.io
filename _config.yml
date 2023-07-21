@@ -1,3 +1,6 @@
 title: Carrie Filion
-theme: minimal
-logo: new_headshot.jpg
+remote_theme: sharu725 / online-cv
+plugins:
+- jekyll-remote-theme
+description: PhD Candidate in Physics and Astronomy
+theme_skin: orange
