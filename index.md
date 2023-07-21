@@ -37,7 +37,8 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 ## Additional Info
 
 <details>
-  <summary> ### Collaborations</summary>
+  <summary> ** Collaborations ** </summary>
+  <p> </p>
   <p> Beyond Basis Function Expansion (B-BFE) - *link coming soon* </p>
   <p> Subaru Prime Focus Spectrograph [(PFS) Collaboration](https://pfs.ipmu.jp/)  </p>
   <p> Mad Astro Dynamics [Research Group](https://www.madastrodynamics.com/) </p>
@@ -45,7 +46,8 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 
 <br>
 <details>
-  <summary> ### Awards and Grants </summary>
+  <summary> ** Awards and Grants ** </summary>
+  <p> </p>
   <p> American Physical Society Women in Physics Group Grants, 2023 * </p>
   <p> American Astronomical Society International Travel Grant, 2022  </p>
   <p> NASA FINESST Fellowship, 2020 </p>
@@ -55,7 +57,8 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 
 <br>
 <details>
-  <summary> ### Observing Proposals </summary>
+  <summary> ** Observing Proposals ** </summary>
+  <p> </p>
   <p> Prime Focus Spectrograph Subaru Strategic Program (PFS SSP), *In preparation*, CO-I on a proposed a 365-night survey to be conducted on the Subaru PFS. </p>
   <p> Cool Subdwarfs in the Galactic Halo, *Submitted*, CO-I on a program to observe candidate cool subdwarfs in the Milky Way stellar halo using unfilled fibers on the Subaru PFS  </p>
   <p> Deciphering the Outer Halo of the Galaxy with Blue Horizontal Branch Stars, *Submitted*, CO-I on a program to observe candidate blue horizontal branch stars using unfilled fibers on the Subaru PFS </p>
