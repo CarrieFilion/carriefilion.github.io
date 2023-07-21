@@ -15,16 +15,7 @@ I am interested in a variety of topics within the broader field of galaxy format
   <p> 2018 - Present, PhD Candidate in Physics and Astronomy </p>
   <p> Dissertation work advised by Prof. Rosemary F.G. Wyse, anticipated completion in 2024 </p>
 </details>
-
-
-
-## Collaborations
-
-Beyond Basis Function Expansion (B-BFE) - *link coming soon*
-
-Subaru Prime Focus Spectrograph [(PFS) Collaboration](https://pfs.ipmu.jp/) 
-
-Mad Astro Dynamics [Research Group](https://www.madastrodynamics.com/)
+<br>
 
 
 
@@ -39,5 +30,36 @@ on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_data
 * ### Nth Author
   * “Revealing Mass Distributions of Dwarf Spheroidal Galaxies in the 
 Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, Accepted for publication in the [Proceedings of the IAUS 379](https://ui.adsabs.harvard.edu/abs/2023arXiv230511309H/abstract)
+
+
+
+
+## Additional Info
+
+<details>
+  <summary> ### Collaborations</summary>
+  <p> Beyond Basis Function Expansion (B-BFE) - *link coming soon* </p>
+  <p> Subaru Prime Focus Spectrograph [(PFS) Collaboration](https://pfs.ipmu.jp/)  </p>
+  <p> Mad Astro Dynamics [Research Group](https://www.madastrodynamics.com/) </p>
+</details>
+
+<br>
+<details>
+  <summary> ### Awards and Grants </summary>
+  <p> American Physical Society Women in Physics Group Grants, 2023 * </p>
+  <p> American Astronomical Society International Travel Grant, 2022  </p>
+  <p> NASA FINESST Fellowship, 2020 </p>
+  <p> Alumni Association Student Grant * </p>
+  <p> * - successful grant proposal that I led on behalf of a service-oriented group </p>
+</details>
+
+<br>
+<details>
+  <summary> ### Observing Proposals </summary>
+  <p> Prime Focus Spectrograph Subaru Strategic Program (PFS SSP), *In preparation*, CO-I on a proposed a 365-night survey to be conducted on the Subaru PFS. </p>
+  <p> Cool Subdwarfs in the Galactic Halo, *Submitted*, CO-I on a program to observe candidate cool subdwarfs in the Milky Way stellar halo using unfilled fibers on the Subaru PFS  </p>
+  <p> Deciphering the Outer Halo of the Galaxy with Blue Horizontal Branch Stars, *Submitted*, CO-I on a program to observe candidate blue horizontal branch stars using unfilled fibers on the Subaru PFS </p>
+  <p> The ZERO survey - Search for zero-metal stars in the Galaxy with HSC/NB395, *Successful*, CO-I on a program requesting 2.5 nights on Subaru’s Hyper Suprime-Cam in 2021/2022 </p>
+</details>
 
 
