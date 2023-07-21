@@ -2,7 +2,7 @@ title: Carrie Filion
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
-description: ## Ph.D. Candidate in Physics and Astronomy
-seconddescription: ## Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow
+description: Ph.D. Candidate in Physics and Astronomy
+seconddescription: Future Investigators in NASA Earth and Space Science and Technology (FINESST) fellow
 logo: new_headshot.jpg
 favicon: favicon.ico
