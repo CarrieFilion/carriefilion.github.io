@@ -1,5 +1,5 @@
 title: Carrie Filion
-theme: minimal
+theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme
 description: PhD Candidate in Physics and Astronomy
