@@ -4,14 +4,16 @@ I am interested in a variety of topics within the broader field of galaxy format
 ## Education
 <details>
   <summary>Undergraduate</summary>
-  <p> Bryn Mawr College, Bryn Mawr, PA USA - A.B. with Honors in Physics, graduated *Magna Cum Laude* in 2018 </p>
+  <p> Bryn Mawr College, Bryn Mawr, PA USA </p>
+  <p> 2015 - 2018, A.B. with Honors in Physics, graduated *Magna Cum Laude* </p>
   <p> Undergraduate thesis work advised by Kate Daniel </p>
 </details>
 
 <details>
   <summary>Graduate</summary>
-  <p> Johns Hopkins University, Baltimore, MD, USA  - 	PhD Candidate in Physics and Astronomy, anticipated completion in 2024 </p>
-  <p> Dissertation work advised by Rosemary F.G. Wyse </p>
+  <p> Johns Hopkins University, Baltimore, MD, USA </p>
+  <p> 2018 - Present, PhD Candidate in Physics and Astronomy </p>
+  <p> Dissertation work advised by Rosemary F.G. Wyse, anticipated completion in 2024 </p>
 </details>
 
 ## Publication List 
