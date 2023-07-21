@@ -1,6 +1,19 @@
 # Research Interests
 I am interested in a variety of topics within the broader field of galaxy formation and evolution. I am particularly interested in Local Group archaeology (i.e. using observations of galaxies within the Local Group to learn about their formation and evolution) and galactic dynamics. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and the dynamics of stars in barred galaxies. 
 
+## Education
+<details>
+  <summary>Undergraduate</summary>
+  <p> Bryn Mawr College, Bryn Mawr, PA USA - A.B. with Honors in Physics, graduated *Magna Cum Laude* in 2018 </p>
+  <p> Undergraduate thesis work advised by Kate Daniel </p>
+</details>
+
+<details>
+  <summary>Graduate</summary>
+  <p> Johns Hopkins University, Baltimore, MD, USA  - 	PhD Candidate in Physics and Astronomy, anticipated completion in 2024 </p>
+  <p> Dissertation work advised by Rosemary F.G. Wyse </p>
+</details>
+
 ## Publication List 
 on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
 
@@ -14,7 +27,3 @@ on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_data
 Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, Accepted for publication in the [Proceedings of the IAUS 379](https://ui.adsabs.harvard.edu/abs/2023arXiv230511309H/abstract)
 
 
-
-
-
-“Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, ApJ, 901, 82
