@@ -41,10 +41,11 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
   <p> </p>
   <p> Beyond Basis Function Expansion (B-BFE) - *link coming soon* </p>
   <p> Subaru Prime Focus Spectrograph <a href="https://pfs.ipmu.jp/">(PFS) Collaboration </a> </p>
-  <p> Mad Astro Dynamics <a href="https://www.madastrodynamics.com/"> Research Group </p>
+  <p> Mad Astro Dynamics <a href="https://www.madastrodynamics.com/"> Research Group </a> </p>
 </details>
 
 <br>
+
 <details>
   <summary> <strong> Awards and Grants </strong> </summary>
   <p> </p>
@@ -56,6 +57,7 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 </details>
 
 <br>
+
 <details>
   <summary> <strong> Observing Proposals </strong> </summary>
   <p> </p>
