@@ -37,16 +37,16 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 ## Additional Info
 
 <details>
-  <summary> ** Collaborations ** </summary>
+  <summary> <strong> Collaborations </strong> </summary>
   <p> </p>
   <p> Beyond Basis Function Expansion (B-BFE) - *link coming soon* </p>
-  <p> Subaru Prime Focus Spectrograph [(PFS) Collaboration](https://pfs.ipmu.jp/)  </p>
-  <p> Mad Astro Dynamics [Research Group](https://www.madastrodynamics.com/) </p>
+  <p> Subaru Prime Focus Spectrograph <a href="https://pfs.ipmu.jp/">(PFS) Collaboration </a> </p>
+  <p> Mad Astro Dynamics <a href="https://www.madastrodynamics.com/"> Research Group </p>
 </details>
 
 <br>
 <details>
-  <summary> ** Awards and Grants ** </summary>
+  <summary> <strong> Awards and Grants </strong> </summary>
   <p> </p>
   <p> American Physical Society Women in Physics Group Grants, 2023 * </p>
   <p> American Astronomical Society International Travel Grant, 2022  </p>
@@ -57,12 +57,12 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 
 <br>
 <details>
-  <summary> ** Observing Proposals ** </summary>
+  <summary> <strong> Observing Proposals </strong> </summary>
   <p> </p>
-  <p> Prime Focus Spectrograph Subaru Strategic Program (PFS SSP), *In preparation*, CO-I on a proposed a 365-night survey to be conducted on the Subaru PFS. </p>
-  <p> Cool Subdwarfs in the Galactic Halo, *Submitted*, CO-I on a program to observe candidate cool subdwarfs in the Milky Way stellar halo using unfilled fibers on the Subaru PFS  </p>
-  <p> Deciphering the Outer Halo of the Galaxy with Blue Horizontal Branch Stars, *Submitted*, CO-I on a program to observe candidate blue horizontal branch stars using unfilled fibers on the Subaru PFS </p>
-  <p> The ZERO survey - Search for zero-metal stars in the Galaxy with HSC/NB395, *Successful*, CO-I on a program requesting 2.5 nights on Subaru’s Hyper Suprime-Cam in 2021/2022 </p>
+  <p> Prime Focus Spectrograph Subaru Strategic Program (PFS SSP), <em> In preparation </em>, CO-I on a proposed a 365-night survey to be conducted on the Subaru PFS. </p>
+  <p> Cool Subdwarfs in the Galactic Halo, <em> Submitted </em>, CO-I on a program to observe candidate cool subdwarfs in the Milky Way stellar halo using unfilled fibers on the Subaru PFS  </p>
+  <p> Deciphering the Outer Halo of the Galaxy with Blue Horizontal Branch Stars, <em> Submitted </em>, CO-I on a program to observe candidate blue horizontal branch stars using unfilled fibers on the Subaru PFS </p>
+  <p> The ZERO survey - Search for zero-metal stars in the Galaxy with HSC/NB395, <em> Successful </em>, CO-I on a program requesting 2.5 nights on Subaru’s Hyper Suprime-Cam in 2021/2022 </p>
 </details>
 
 
