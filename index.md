@@ -6,15 +6,20 @@ I am interested in a variety of topics within the broader field of galaxy format
   <summary>Undergraduate</summary>
   <p> Bryn Mawr College, Bryn Mawr, PA USA </p>
   <p> 2015 - 2018, A.B. with Honors in Physics, graduated *Magna Cum Laude* </p>
-  <p> Undergraduate thesis work advised by Kate Daniel </p>
+  <p> Undergraduate thesis work advised by Prof. Kate Daniel </p>
 </details>
 
 <details>
   <summary>Graduate</summary>
   <p> Johns Hopkins University, Baltimore, MD, USA </p>
   <p> 2018 - Present, PhD Candidate in Physics and Astronomy </p>
-  <p> Dissertation work advised by Rosemary F.G. Wyse, anticipated completion in 2024 </p>
+  <p> Dissertation work advised by Prof. Rosemary F.G. Wyse, anticipated completion in 2024 </p>
 </details>
+
+## Active Collaborations
+Beyond Basis Function Expansion (B-BFE) - *link coming soon*
+Subaru Prime Focus Spectrograph [(PFS) Collaboration](https://pfs.ipmu.jp/) 
+Mad Astro Dynamics [Research Group](https://www.madastrodynamics.com/)
 
 ## Publication List 
 on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
