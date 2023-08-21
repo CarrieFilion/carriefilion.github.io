@@ -1,5 +1,5 @@
 # Research Interests
-I am interested in a variety of topics within the broader field of galaxy formation and evolution. I am particularly interested in Local Group archaeology (i.e. using observations of galaxies within the Local Group to learn about their formation and evolution) and galactic dynamics. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the chemo-dynamics of the Milky Way outer disk, and the dynamics of stars in barred galaxies. 
+I am interested in a variety of topics within the broader field of galaxy formation and evolution. I am particularly interested in Local Group archaeology (i.e. using observations of stars in galaxies within the Local Group to learn about the formation and evolution of those galaxies) and galactic dynamics. My research work includes analyses of the stellar populations of ultra faint dwarf galaxies, the dynamics of stars in barred galaxies, and planning and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. 
 
 ## Education
 <details>
