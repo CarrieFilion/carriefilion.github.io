@@ -51,7 +51,7 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
   <p> </p>
   <p> American Physical Society Women in Physics Group Grants, 2023 * </p>
   <p> American Astronomical Society International Travel Grant, 2022  </p>
-  <p> NASA FINESST Fellowship, 2020 </p>
+  <p> NASA FINESST Grant, 2020 </p>
   <p> Alumni Association Student Grant * </p>
   <p> * - successful grant proposal that I led on behalf of a service-oriented group </p>
 </details>
