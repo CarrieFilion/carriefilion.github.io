@@ -12,8 +12,8 @@ I am interested in a variety of topics within the broader field of galaxy format
 <details>
   <summary>Graduate</summary>
   <p> Johns Hopkins University, Baltimore, MD, USA </p>
-  <p> 2018 - Present, PhD Candidate in Physics and Astronomy </p>
-  <p> Dissertation work advised by Prof. Rosemary F.G. Wyse, anticipated completion in 2024 </p>
+  <p> 2018 - 2024, Ph.D. in Astronomy and Astrophysics </p>
+  <p> Dissertation work advised by Prof. Rosemary F.G. Wyse </p>
 </details>
 <br>
 
