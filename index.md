@@ -23,12 +23,14 @@ I am interested in a variety of topics, ranging from star formation to galactic 
 on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22filion%2C%20c%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0), [ORCiD](https://orcid.org/0000-0001-5522-5029)
 
 * ### First Author
-   * "The Low-Mass Stellar Initial Mass Function in Nearby Ultra-Faint Dwarf Galaxies", Filion, C., Wyse, R.F.G., Richstein, H., Kallivayalil, N., van der Marel, R.P., Sacchi, E., 2024, [ApJ, accepted](https://arxiv.org/pdf/2404.11571)
+   * "The Low-Mass Stellar Initial Mass Function in Nearby Ultra-Faint Dwarf Galaxies", Filion, C., Wyse, R.F.G., Richstein, H., Kallivayalil, N., van der Marel, R.P., Sacchi, E., 2024, [ApJ, 967, 165](https://arxiv.org/pdf/2404.11571)
    * “The Non-Axisymmetric Influence: Radius and Angle-Dependent Trends in a Barred Galaxy”, Filion, C., McClure, R.L., Weinberg, M., D’Onghia, E., Daniel, K.J., 2023, [MNRAS, 524, 276](https://ui.adsabs.harvard.edu/abs/2023MNRAS.524..276F/abstract)
    * “Faint Stars in a Faint Galaxy. II. the Low-Mass Stellar Initial Mass Function of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Platais, I., Wyse, R.F.G, Kozhurina-Platais, V., 2022, [ApJ, 939, 38](https://ui.adsabs.harvard.edu/abs/2022ApJ...939...38F/abstract)
    * “The Far-away Blues: Exploring the Furthest Extents of the Boötes I Ultra-faint Dwarf Galaxy”, Filion, C., Wyse, R.F.G, 2021, [ApJ, 923, 218](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..218F/abstract)
    * “Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, [ApJ, 901, 82](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...82F/abstract)
 * ### Nth Author
+  *  “[X/Fe] Marks the Spot: Mapping Chemical Azimuthal Variations in the Galactic Disk with APOGEE”, Hackshaw, Z., Hawkins, K., Filion, C., et al., 2024 [Submitted](https://ui.adsabs.harvard.edu/abs/2024arXiv240518120H/abstract)
+
   * "Detection of a Spatially Extended Stellar Population in M33: A Shallow Stellar Halo?", Ogami, I., et al *including Filion, C.*, 2024 [submitted to ApJ](https://ui.adsabs.harvard.edu/abs/2024arXiv240314234O/abstract)
   * "Radial phase spirals in the Solar neighbourhood", Hunt, J., et al *including Filion, C.*, 2024, [MNRAS, 527, 4](https://ui.adsabs.harvard.edu/abs/2024MNRAS.52711393H/abstract)
   * "The structure of the stellar halo of the Andromeda galaxy explored with the NB515 for Subaru/HSC. I.: New Insights on the stellar halo up to 120 kpc", Ogami,  I., et al *including Filion, C.*, 2024, [submitted to MNRAS](https://ui.adsabs.harvard.edu/abs/2024arXiv240100668O/abstract)
