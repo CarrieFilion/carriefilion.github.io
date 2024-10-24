@@ -1,1 +1,1 @@
-You can reach me at cfilion@jhu.edu
+You can reach me at cfilion@flatironinstitute.org
