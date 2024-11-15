@@ -5,7 +5,7 @@ I am interested in a variety of topics, ranging from survey planning to galactic
 <details>
   <summary>Undergraduate</summary>
   <p> Bryn Mawr College, Bryn Mawr, PA USA </p>
-  <p> 2015 - 2018, A.B. with Honors in Physics, graduated *Magna Cum Laude* </p>
+  <p> 2015 - 2018, A.B. with Honors in Physics, graduated _Magna Cum Laude_ </p>
   <p> Undergraduate thesis work advised by Prof. Kate Daniel </p>
 </details>
 
@@ -30,8 +30,8 @@ on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_data
    * “Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, [ApJ, 901, 82](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...82F/abstract)
 * ### Nth Author
   * 
-  *  “[X/Fe] Marks the Spot: Mapping Chemical Azimuthal Variations in the Galactic Disk with APOGEE”, Hackshaw, Z., Hawkins, K., Filion, C., et al., 2024 [Accepted](https://ui.adsabs.harvard.edu/abs/2024arXiv240518120H/abstract)
-  * "Detection of a Spatially Extended Stellar Population in M33: A Shallow Stellar Halo?", Ogami, I., et al *including Filion, C.*, 2024 [submitted to ApJ](https://ui.adsabs.harvard.edu/abs/2024arXiv240314234O/abstract)
+  *  “[X/Fe] Marks the Spot: Mapping Chemical Azimuthal Variations in the Galactic Disk with APOGEE”, Hackshaw, Z., Hawkins, K., Filion, C., et al., 2024 [Accepted, ApJ](https://ui.adsabs.harvard.edu/abs/2024arXiv240518120H/abstract)
+  * "Detection of a Spatially Extended Stellar Population in M33: A Shallow Stellar Halo?", Ogami, I., et al *including Filion, C.*, 2024 [ApJ, 971, 1](https://ui.adsabs.harvard.edu/abs/2024arXiv240314234O/abstract)
   * "Radial phase spirals in the Solar neighbourhood", Hunt, J., et al *including Filion, C.*, 2024, [MNRAS, 527, 4](https://ui.adsabs.harvard.edu/abs/2024MNRAS.52711393H/abstract)
   * "The structure of the stellar halo of the Andromeda galaxy explored with the NB515 for Subaru/HSC. I.: New Insights on the stellar halo up to 120 kpc", Ogami,  I., et al *including Filion, C.*, 2024, [submitted to MNRAS](https://ui.adsabs.harvard.edu/abs/2024arXiv240100668O/abstract)
   * "RomAndromeda: The Roman Survey of the Andromeda Halo", Dey, A., Najita, J., Filion, C., et al., 2023, Roman White Paper on the [arXiv](https://ui.adsabs.harvard.edu/abs/2023arXiv230612302D/abstract)
@@ -46,7 +46,7 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 <details>
   <summary> <strong> Collaborations </strong> </summary>
   <p> </p>
-  <p> Beyond Basis Function Expansion (B-BFE) - *link coming soon* </p>
+  <p> Beyond Basis Function Expansion (B-BFE) - _link coming soon_ </p>
   <p> Subaru Prime Focus Spectrograph <a href="https://pfs.ipmu.jp/">(PFS) Collaboration </a> </p>
   <p> Mad Astro Dynamics <a href="https://www.madastrodynamics.com/"> Research Group </a> </p>
 </details>
