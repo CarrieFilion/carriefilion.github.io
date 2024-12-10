@@ -1,11 +1,12 @@
 # Research Interests
-I am interested in a variety of topics, ranging from survey planning to galactic dynamics. I am particularly interested in using both dynamical simulations and observations of stars in the Milky Way and nearby galaxies to gain insight into how galaxies form and evolve. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. 
+I am interested in a variety of topics, ranging from survey planning to galactic dynamics. I am particularly interested in using both dynamical simulations and observations of stars in the Milky Way and nearby galaxies to gain insight into how galaxies form and evolve. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. In addition to this work I am currently developing a new technique to sonify astronomical data, and I am interested in using sonification as both a novel research tool and as a way to make astronomy more inclusive.
 
+ 
 ## Education
 <details>
   <summary>Undergraduate</summary>
   <p> Bryn Mawr College, Bryn Mawr, PA USA </p>
-  <p> 2015 - 2018, A.B. with Honors in Physics, graduated _Magna Cum Laude_ </p>
+  <p> 2015 - 2018, A.B. with Honors in Physics, graduated <em> Magna Cum Laude </em> </p>
   <p> Undergraduate thesis work advised by Prof. Kate Daniel </p>
 </details>
 
@@ -29,7 +30,7 @@ on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_data
    * “The Far-away Blues: Exploring the Furthest Extents of the Boötes I Ultra-faint Dwarf Galaxy”, Filion, C., Wyse, R.F.G, 2021, [ApJ, 923, 218](https://ui.adsabs.harvard.edu/abs/2021ApJ...923..218F/abstract)
    * “Faint Stars in a Faint Galaxy. I. Ultradeep Photometry of the Boötes I Ultrafaint Dwarf Galaxy”, Filion, C., Kozhurina-Platais, V., Avila, R., Platais, I., Wyse, R.F.G, 2020, [ApJ, 901, 82](https://ui.adsabs.harvard.edu/abs/2020ApJ...901...82F/abstract)
 * ### Nth Author
-  * 
+  * "Disc asymmetry characterisation in JWST-observed galaxies at 1 < z < 4", Ganapathy, A., Petersen, M.S., Yaaqib, R., Filion, C, 2024 [<em> Submitted </em>](https://ui.adsabs.harvard.edu/abs/2024arXiv241111972G/abstract)
   *  “[X/Fe] Marks the Spot: Mapping Chemical Azimuthal Variations in the Galactic Disk with APOGEE”, Hackshaw, Z., Hawkins, K., Filion, C., et al., 2024 [Accepted, ApJ](https://ui.adsabs.harvard.edu/abs/2024arXiv240518120H/abstract)
   * "Detection of a Spatially Extended Stellar Population in M33: A Shallow Stellar Halo?", Ogami, I., et al *including Filion, C.*, 2024 [ApJ, 971, 1](https://ui.adsabs.harvard.edu/abs/2024arXiv240314234O/abstract)
   * "Radial phase spirals in the Solar neighbourhood", Hunt, J., et al *including Filion, C.*, 2024, [MNRAS, 527, 4](https://ui.adsabs.harvard.edu/abs/2024MNRAS.52711393H/abstract)
@@ -46,7 +47,7 @@ Subaru-PFS Era”, Hayashi, K., Dobos, L., Filion, C., Kirby, E., et al., 2023, 
 <details>
   <summary> <strong> Collaborations </strong> </summary>
   <p> </p>
-  <p> Beyond Basis Function Expansion (B-BFE) - _link coming soon_ </p>
+  <p> Beyond Basis Function Expansion (B-BFE)  <em> link coming soon </em> </p>
   <p> Subaru Prime Focus Spectrograph <a href="https://pfs.ipmu.jp/">(PFS) Collaboration </a> </p>
   <p> Mad Astro Dynamics <a href="https://www.madastrodynamics.com/"> Research Group </a> </p>
 </details>
