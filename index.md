@@ -1,5 +1,10 @@
-# Research Interests
-I am interested in a variety of topics, ranging from survey planning to galactic dynamics. I am particularly interested in using both dynamical simulations and observations of stars in the Milky Way and nearby galaxies to gain insight into how galaxies form and evolve. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. In addition to this work I am currently developing a new technique to sonify astronomical data, and I am interested in using sonification as both a novel research tool and as a way to make astronomy more inclusive.
+# Carrie Filion
+## Flatiron Research Fellow 
+### Ph.D. in Astronomy and Astrophysics from Johns Hopkins University
+Hi! I'm Carrie, a research fellow at the Center for Computational Astrophysics in the Flatiron Institute. I am a Local Group archaeologist, and I work with both observational data and large simulations. I am also pioneering a new technique to turn astronomical data into sounds through sonification. 
+
+## Research Interests
+I am interested in a variety of topics, ranging from survey planning to galactic dynamics. I am particularly interested in using both dynamical simulations and observations of stars in the Milky Way and nearby galaxies to gain insight into how galaxies form and evolve. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. I am also interested in using sonification as both a novel research tool and as a way to make astronomy more inclusive.
 
  
 ## Education
