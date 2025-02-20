@@ -1,10 +1,11 @@
 # Carrie Filion
+## Local Group Archaeologist
 ## Flatiron Research Fellow 
 ### Ph.D. in Astronomy and Astrophysics from Johns Hopkins University
-Hi! I'm Carrie, a research fellow at the Center for Computational Astrophysics in the Flatiron Institute. I am a Local Group archaeologist, and I work with both observational data and large simulations. I am also pioneering a new sonification technique to turn galaxy data into sounds. Learn more about my work below!
+I'm Carrie, a research fellow at the Center for Computational Astrophysics in the Flatiron Institute. In my work, I use both large simulations and observations of nearby stars to help us better understand how galaxies form and evolve. I am particularly interested in the formation of dynamical structures, like galactic bars, and figuring out what we can learn about the Milky Way and her nearest neighbors with spectroscopic surveys. I am also pioneering a new sonification technique to turn galaxy data into sounds. Learn more about my research below!
 
 ## Research Interests
-I am interested in a variety of topics, ranging from survey planning to galactic dynamics. I am particularly interested in using both dynamical simulations and observations of stars in the Milky Way and nearby galaxies to gain insight into how galaxies form and evolve. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. I am also interested in using sonification as both a novel research tool and as a way to make astronomy more inclusive.
+I am interested in a variety of topics, ranging from survey planning to galactic dynamics. My research work to date includes analyses of the stellar populations of ultra-faint dwarf galaxies, the dynamics of stars in barred galaxies, and preparations for the resolved-star component of the upcoming Subaru Prime Focus Spectrograph survey. Lately, I've been thinking about 2D and 3D basis function expansions as a framework for investigating and describing galactic structure evolution. I use 2D basis function expansions to map images of galaxies to sound, and I am interested in sonification as both a novel research tool and as a way to make astronomy more inclusive.
 
  
 ## Education
