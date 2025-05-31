@@ -812,12 +812,12 @@
 		font-size: 0.75em;
 
 		a {
-			color: #ddd;
-			color: rgba(255, 255, 255, 0.65);
+			color: #000000;
+			color: rgba(0, 0, 0, 0.65);
 			@include vendor('transition', 'color .25s ease-in-out');
 
 			&:hover {
-				color: rgba(255, 255, 255, 1);
+				color: rgb(0, 0, 0);
 			}
 		}
 
@@ -829,7 +829,7 @@
 				display: inline-block;
 				padding-left: 1em;
 				margin-left: 1em;
-				border-left: solid 1px rgba(255, 255, 255, 0.25);
+				border-left: solid 1px rgb(0, 0, 0);
 				line-height: 1;
 
 				&:first-child {

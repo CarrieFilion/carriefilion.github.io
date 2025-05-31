@@ -2143,15 +2143,15 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		color: rgba(255, 255, 255, 0.45);
+		color: rgb(0, 0, 0);
 		text-align: center;
 		padding: 2em 0 0 0;
 		font-size: 0.75em;
 	}
 
 		#footer a {
-			color: #ffffff;
-			color: rgb(255, 255, 255);
+			color: #050303;
+			color: rgb(0, 0, 0);
 			-moz-transition: color .25s ease-in-out;
 			-webkit-transition: color .25s ease-in-out;
 			-ms-transition: color .25s ease-in-out;
@@ -2159,7 +2159,7 @@ input, select, textarea {
 		}
 
 			#footer a:hover {
-				color: white;
+				color: rgb(0, 0, 0);
 			}
 
 		#footer .copyright {
@@ -2171,7 +2171,7 @@ input, select, textarea {
 				display: inline-block;
 				padding-left: 1em;
 				margin-left: 1em;
-				border-left: solid 1px rgb(255, 255, 255);
+				border-left: solid 1px rgb(5, 4, 4);
 				line-height: 1;
 			}
 
