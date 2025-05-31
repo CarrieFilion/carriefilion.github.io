@@ -529,9 +529,8 @@
 			line-height: 0.9em;
 			font-size: 2.5em;
 			margin: 0 0.25em 0 0.25em;
-			opacity: 0.35;
+			opacity: 1;
 			outline: 0;
-			@include vendor('transition', 'opacity .25s ease-in-out');
 
 			&.icon:before {
 				padding-right: 0;

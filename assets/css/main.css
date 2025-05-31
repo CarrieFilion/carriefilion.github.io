@@ -1784,12 +1784,8 @@ input, select, textarea {
 			line-height: 0.9em;
 			font-size: 2.5em;
 			margin: 0 0.25em 0 0.25em;
-			opacity: 0.35;
+			opacity: 1;
 			outline: 0;
-			-moz-transition: opacity .25s ease-in-out;
-			-webkit-transition: opacity .25s ease-in-out;
-			-ms-transition: opacity .25s ease-in-out;
-			transition: opacity .25s ease-in-out;
 		}
 
 			#nav a.icon:before {
@@ -2141,6 +2137,10 @@ input, select, textarea {
 				}
 
 /* Footer */
+
+	.copyright-footer {
+		font-size: 1.25em;
+	}
 
 	#footer {
 		color: rgb(0, 0, 0);
